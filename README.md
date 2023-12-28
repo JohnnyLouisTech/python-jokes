@@ -1,8 +1,15 @@
 # python-jokes
-You will need to  first run: pip install requests
-and add from: urllib at the top of your code - This will allow you to add website (Please ignore the "S" from "HTTPS" is encounter issues)
-You will need import: requests
-You will need to import: json
+You will need to first run pip install requests from the terminal or gitbash
+pip install requests
+
+and add from: 
+urllib at the top of your code - This will allow you to add website (Please ignore the "S" from "HTTPS" is encounter issues)
+
+You will need import: 
+import requests
+
+You will need to import: 
+import json
 ## This is a fetch API from the official joke API which generates ten random jokes
 ![python jokes](https://github.com/JohnnyLouisTech/python-jokes/assets/29494723/bbd5ee09-c649-4877-9b1f-e8f6d7efa382)
 
